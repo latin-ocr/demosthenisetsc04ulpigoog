@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demosthenisetsc04ulpigoog/demosthenisetsc04ulpigoog_0003.png"; bbox 0 0 3042 4892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1303 1612 2447 1688">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1303 1612 2447 1688">
+     <span class='ocr_line' id='line_1_1' title="bbox 2381 1616 2447 1688"><span class='ocrx_word' id='word_1_1' title='bbox 2381 1616 2447 1688; x_wconf 76' lang='grc' dir='ltr'>ν..</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2305 1616 2369 1688"><span class='ocrx_word' id='word_1_2' title='bbox 2305 1616 2369 1688; x_wconf 81' lang='lat' dir='ltr'>R</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2225 1620 2293 1688"><span class='ocrx_word' id='word_1_3' title='bbox 2225 1620 2293 1688; x_wconf 72' lang='grc' dir='ltr'><strong>Α</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2077 1616 2213 1688"><span class='ocrx_word' id='word_1_4' title='bbox 2077 1616 2213 1688; x_wconf 62' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1957 1616 2013 1688"><span class='ocrx_word' id='word_1_5' title='bbox 1957 1616 2013 1688; x_wconf 94' lang='lat' dir='ltr'>L</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1697 1615 1889 1688"><span class='ocrx_word' id='word_1_6' title='bbox 1697 1615 1889 1688; x_wconf 55' lang='lat' dir='ltr'>m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1553 1615 1681 1688"><span class='ocrx_word' id='word_1_7' title='bbox 1553 1615 1681 1688; x_wconf 53' lang='grc' dir='ltr'>,ΜΗ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1464 1616 1537 1688"><span class='ocrx_word' id='word_1_8' title='bbox 1464 1616 1537 1688; x_wconf 83' lang='lat' dir='ltr'>D</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1303 1612 1452 1688"><span class='ocrx_word' id='word_1_9' title='bbox 1303 1612 1452 1688; x_wconf 65' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1384 2016 2373 2088">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1384 2016 2373 2088">
+     <span class='ocr_line' id='line_1_10' title="bbox 1384 2016 2373 2088; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1384 2016 1573 2088; x_wconf 74' lang='lat' dir='ltr'>Miss</span> <span class='ocrx_word' id='word_1_11' title='bbox 1597 2016 1837 2088; x_wconf 72' lang='lat' dir='ltr'>Emmfl</span> <span class='ocrx_word' id='word_1_12' title='bbox 1865 2016 1945 2088; x_wconf 79' lang='lat' dir='ltr'>F.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1973 2016 2033 2088; x_wconf 71' lang='lat' dir='ltr'>I.</span> <span class='ocrx_word' id='word_1_14' title='bbox 2065 2016 2373 2088; x_wconf 66' lang='lat' dir='ltr'>Duastfln</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 856 1140 3042 4890">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 856 1140 3042 4890">
+     <span class='ocr_line' id='line_1_11' title="bbox 856 1140 3042 4890"><span class='ocrx_word' id='word_1_15' title='bbox 856 1140 3042 4890; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
